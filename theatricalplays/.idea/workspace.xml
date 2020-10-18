@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bd25db0-04aa-417d-90ed-8c09da451d38" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springHibernateMavenWithAnnotations" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WO7KKq3ejPYoHEYpGcIj5zqehm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatSettingConfigurable" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in springHibernateMavenWithAnnotations">
+    <configuration default="true" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" editBeforeRun="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="adminPort" value="8005" />
+      <option name="ajpPort" value="8009" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="contextPath" value="" />
+      <option name="customContext" value="" />
+      <option name="docBase" value="" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="moduleName" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 9.0.29" />
+          <option name="number" value="0" />
+          <option name="path" value="/usr/local/Cellar/tomcat/9.0.29/libexec" />
+          <option name="version" value="9.0.29.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in springHibernateMavenWithAnnotations" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springHibernateMavenWithAnnotations" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 9.0.29" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="adminPort" value="8005" />
+      <option name="ajpPort" value="8009" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="contextPath" value="" />
+      <option name="customContext" value="" />
+      <option name="docBase" value="" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="moduleName" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 9.0.29" />
+          <option name="number" value="0" />
+          <option name="path" value="/usr/local/Cellar/tomcat/9.0.29/libexec" />
+          <option name="version" value="9.0.29.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in springHibernateMavenWithAnnotations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bd25db0-04aa-417d-90ed-8c09da451d38" name="Default Changelist" comment="" />
+      <created>1579008721558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579008721558</updated>
+      <workItem from="1579350545820" duration="1117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="171" y="277" width="1189" height="669" key="#Project_Structure" timestamp="1579016188096">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="171" y="277" width="1189" height="669" key="#Project_Structure/0.23.1920.1177@0.23.1920.1177" timestamp="1579016188096" />
+    <state x="338" y="285" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579014540206">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="338" y="285" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1579014540206" />
+    <state x="683" y="307" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1579009059879">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="683" y="307" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1579009059879" />
+    <state x="562" y="293" width="819" height="636" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1579011730670">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="562" y="293" width="819" height="636" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1579011730670" />
+    <state width="938" height="285" key="GridCell.Tab.0.bottom" timestamp="1579351855800">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1579351855800" />
+    <state width="1506" height="207" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1579016218981" />
+    <state width="938" height="285" key="GridCell.Tab.0.center" timestamp="1579351855800">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1579351855800" />
+    <state width="1506" height="207" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1579016218980" />
+    <state width="938" height="285" key="GridCell.Tab.0.left" timestamp="1579351855800">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1579351855800" />
+    <state width="1506" height="207" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1579016218980" />
+    <state width="938" height="285" key="GridCell.Tab.0.right" timestamp="1579351855800">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1579351855800" />
+    <state width="1506" height="207" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1579016218981" />
+    <state x="461" y="250" key="SettingsEditor" timestamp="1579015993395">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="461" y="250" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1579015993395" />
+    <state x="668" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1579350555021">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="668" y="354" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579350555021" />
+    <state x="637" y="443" key="com.intellij.ide.util.TipDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1579013262942" />
+    <state x="541" y="199" width="837" height="825" key="find.popup" timestamp="1579011898227">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="541" y="199" width="837" height="825" key="find.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1579011898227" />
+    <state x="625" y="286" key="run.anything.popup" timestamp="1579008796761">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="625" y="286" key="run.anything.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1579008796761" />
+    <state x="625" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1579011790423">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="625" y="288" width="670" height="676" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1579011790423" />
+  </component>
+</project>
